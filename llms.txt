@@ -1,0 +1,37 @@
+# Amour Cookie
+
+> Cookies artisanaux français, façonnés à la main avec des ingrédients choisis avec amour. Cuits du jour, livrés avec soin.
+
+Amour Cookie est une marque française de cookies artisanaux. Le site permet de découvrir les saveurs, composer une box de cookies (5 ou 10 cookies) et commander en livraison France entière ou en click & collect le samedi.
+
+## Pages principales
+
+- Accueil : https://amourcookie.com/
+- Nos cookies (saveurs) : https://amourcookie.com/nos-cookies
+- Composer une box de 5 cookies : https://amourcookie.com/composer/5
+- Composer une box de 10 cookies : https://amourcookie.com/composer/10
+
+## Produits
+
+### Cookies (saveurs)
+- Chocolat-noisette, Caramel salé, Pistache, Praliné rose, Chocolat blanc, Sarrasin-choco, Tiramisu, Protéiné choco-amande.
+- Certains cookies sont livrables France entière, d'autres uniquement en click & collect (samedi).
+
+### Box
+- Box 5 cookies : 24 €
+- Box 10 cookies : 40 €
+
+### Gourmandises & accessoires
+- Pralinés, Boîte de conservation, Tote bag, Verre isotherme.
+
+## Livraison
+- Livraison France entière (tous les jours) pour les cookies expédiables.
+- Click & Collect le samedi (tous les cookies, y compris ceux à la crème).
+
+## Contact
+- Site : https://amourcookie.com/
+- Email : contact@amourcookie.fr (à confirmer)
+
+## Informations techniques
+- Langue : français
+- Devise : EUR (€)
